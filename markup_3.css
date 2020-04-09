@@ -1,0 +1,22 @@
+.first li {
+    background-color: red;
+    border-style: solid;
+    border-color: blue;
+    font-style: oblique;
+    font-weight: bold;
+    margin:1em;
+}
+.second li {
+    background-color: yellow; 
+    border-style: solid;
+    border-color: red;
+    font-weight: bold;
+    margin: 0.5em;
+    padding: 1em;
+}
+.third  {
+    background-color: green;
+    border-style: dotted;
+    border-color:yellow; 
+    text-decoration: underline;
+}
